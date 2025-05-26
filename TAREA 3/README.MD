@@ -1,1 +1,0 @@
-gcc -o tarea tarea3.c tdas/list.c tdas/extra.c -Wall -Wextra
